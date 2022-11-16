@@ -5,7 +5,7 @@ Created on Tue Oct  4 20:35:51 2022
 
 @author: amara
 """
-from ca_fire import evolve_forest, write_netcdf
+from ca_fire import evolve_forest, 
 
 
 # defaults
